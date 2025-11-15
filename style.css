@@ -1,0 +1,13 @@
+body {
+    background-color: bisque;
+}
+
+.h1 {
+    font: bold;
+    font-size: 10rem;
+}
+
+.p {
+    font-size: 5rem;
+    text-align: justify;
+}
